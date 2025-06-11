@@ -14,7 +14,7 @@ public class HashTable {
         }
     }
 
-    public ArrayList<Pair>[] table;
+    private ArrayList<Pair>[] table;
     private int size;
     private int count;
 
